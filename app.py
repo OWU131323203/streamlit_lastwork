@@ -1,7 +1,6 @@
 # Streamlitアプリ：CoC_ranking.csvに基づいたシナリオランキング表示（見やすいレイアウト付き）
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 
 # データ読み込み関数
 @st.cache_data
